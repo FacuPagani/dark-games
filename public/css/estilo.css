@@ -1,0 +1,29 @@
+body{
+    background-color: #232629;
+}
+.headerNav{
+    display: flex;
+    flex-direction: row;
+}
+.logoKratos{
+    height: 100px;
+    border-radius: 50%;
+}
+.juegos{
+    margin-top:100px;
+    margin-bottom:50px;
+}
+.blanco{
+    color: white;
+}
+.center{
+    text-align: center;
+}
+
+.juegosCards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
